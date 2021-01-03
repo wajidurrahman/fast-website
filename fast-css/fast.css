@@ -21,7 +21,7 @@ body{
 .navLink{
     text-align: center;
     padding: 35px;
-    display: inline-block;
+    display: flex;
     width: 500px;
     float:right;
 }
